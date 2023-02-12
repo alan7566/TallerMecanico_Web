@@ -20,7 +20,6 @@ public class Country {
     private Integer id;
     private String code;
     private String capital;
-    private String name;
     private String description;
     private String nacionality;
     private String continent;
